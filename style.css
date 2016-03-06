@@ -1,0 +1,13 @@
+
+footer {
+    text-align: center;
+}
+
+.container {
+    overflow: auto;
+}
+
+.axle {
+    float: right;
+    width: 300px;
+}
